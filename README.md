@@ -1,5 +1,7 @@
 # FeelsGoodMan-TwitterBot
-Prints "FeelsGoodMan" onto landscape images from Reddit and tweets these images to Twitter @FeelsGoodManBot hourly.
+Prints "FeelsGoodMan" onto landscape images from Reddit and tweets these images to Twitter @FeelsGoodManBot daily.
+
+![image](https://user-images.githubusercontent.com/24258795/48956991-fa7a1a00-ef23-11e8-9de8-1d3efd7c5b70.png)
 
 This python script uses PRAW, PIL, and Twython.
 

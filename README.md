@@ -37,13 +37,13 @@ This python script uses PRAW, PIL, and Twython.
 *NOTE: this is running off a Raspberry Pi 2 running Raspian* <br>
 *some other configurations may be needed on other machines*
 
-  - install PIL     ~ pip3 install PIL
-  - install PRAW    ~ pip3 install PRAW
-  - install twython ~ pip3 install twython
+  - install PIL     ```pip3 install PIL```
+  - install PRAW    ```pip3 install PRAW```
+  - install twython ```pip3 install twython```
   - any font can be used, change twitter.py wherever the script references Lato-Regular.ttf to your own font
   - download "Lato-Regular.ttf" from https://fonts.google.com/specimen/Lato?selection.family=Lato
   - place "Lato-Regular.ttf" into the ".fonts" folder on the Raspberry Pi's home directory
-  - if ".font" is not there, create it
+  - if ".fonts" is not there, create it
   - create auth.py and put in the same directory as twitter.py
   - create a Twitter account (this will be the account that tweets the images)
   - create a new Twitter app (https://apps.twitter.com)
